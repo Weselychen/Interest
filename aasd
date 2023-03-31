@@ -1,0 +1,30 @@
+[33mcommit a98e7edb8cb0a1bdc4e06d2d97eeb7fc2b52bcf4[m[33m ([m[1;36mHEAD -> [m[1;32mmain[m[33m)[m
+Merge: 1b07500 9f5ee30
+Author: Wesley <2320335351@qq.com>
+Date:   Fri Mar 31 23:14:00 2023 +0800
+
+    conflict fixed
+
+[33mcommit 1b075007b58e0c125f021633afc577b1150a25af[m
+Author: Wesley <2320335351@qq.com>
+Date:   Fri Mar 31 23:11:22 2023 +0800
+
+    & simple
+
+[33mcommit 9f5ee303eddd8a66dee24da377204def7a86c94a[m[33m ([m[1;32mfeature1[m[33m)[m
+Author: Wesley <2320335351@qq.com>
+Date:   Fri Mar 31 23:09:25 2023 +0800
+
+    And simple
+
+[33mcommit 1260e61417a133cb837bc823719f37678f932233[m
+Author: Wesley <2320335351@qq.com>
+Date:   Fri Mar 31 22:58:36 2023 +0800
+
+    banch test
+
+[33mcommit 3d031bcb95fdb80b746d94399606b97916fb3746[m[33m ([m[1;31morigin/main[m[33m, [m[1;31morigin/HEAD[m[33m)[m
+Author: Weselychen <129142076+Weselychen@users.noreply.github.com>
+Date:   Fri Mar 31 21:48:31 2023 +0800
+
+    Initial commit
